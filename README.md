@@ -37,7 +37,6 @@ open http://localhost:5678
 n8n-local/
 ├── docker-compose.yml   # основной compose-файл
 ├── .env                 # переменные окружения
-├── init-data.sh         # инициализация PostgreSQL
 ├── local-files/         # shared-директория для файлов
 ├── Makefile             # shortcuts
 └── README.md
